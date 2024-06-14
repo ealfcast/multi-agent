@@ -1,4 +1,4 @@
-# Multi-agent Collaboration Solutions evaluation using Agents for Amazon Bedrock
+# Multi-agent Collaboration Solutions evaluation using Agents for Amazon Bedrock, BERT transformers
 This workshop is built to help you learn about Multi-agent Collaboration using Agents for Amazon Bedrock.
 The workshop helps builders easily create multiple agents, see how they can be used together to
 accomplish tasks, and provide an environment for experimenting with different techniques and 

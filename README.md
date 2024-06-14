@@ -24,7 +24,7 @@ use its sub-agents and KB's to handle customer conversations with questions like
 3. What are the tradeoffs between 15-year and 30-year mortgages?
 4. What other documents are needed to complete my new mortgage application?
 
-The workshop is packaged as a set of notebooks:
+The solution evaluation comprises a set of notebooks:
 
 - **01_create_agents_and_kbs:** creates the agents and knowledge bases and does simple validation of them in isolation.
 - **02_supervisor_agent:** creates a supervisor agent that knows about the individual agents 
@@ -36,6 +36,7 @@ directly.
 - **04_function_calling:** show how Bedrock function calling can help choose which sub-agent
 to call, and the client can provide its own orchestration.
 - **05_agent_evaluation:** shows how to test and evaluate agents.
+- **06 Smart Router
 
 A pair of helper classes ('AgentsForAmazonBedrock', and 'KnowledgeBase') are provided to
 simplify creation, deletion, and invocation of Agents, Supervisor Agents, and Knowledge Bases.
